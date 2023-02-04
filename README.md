@@ -1,6 +1,6 @@
 # Vite + React + Typescript : The Template
 
-Bare minimum template to get your setup ready. Eslint(for react hooks shit) is included.
+A Bare minimum template to get your setup ready. Eslint(for react hooks shit) is included.
 
 You can `npm init vite@latest' and setup eslint, but
 ![A woman say a little prayer](https://media.giphy.com/media/10PcMWwtZSYk2k/giphy.gif)
